@@ -11,13 +11,6 @@ Hi! I'm NADINE and I'm happy to have you as a student in my courses. Don't imita
 Hi! I'm sarra and I'm happy to have you as a student in my courses. Don't imitate, understand!
 
 
-Skills
-HTML
-Markup your content with semantic HTML.
-CSS
-Layout your content visually for multiple devices.
-JavaScript
-Make your content more interactive, and build web applications.
 
 Work History
 UX/UI Designer
